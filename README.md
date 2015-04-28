@@ -17,6 +17,6 @@ Note: you can also call the script after initialization, simply by including Mol
 
 Feel free to redistribute for any purpose as long as this notice is maintained.
 
-See examples in examples.html
+To see examples in examples.html, simply save it in the same directory as molecularformula.js
 
-I am in the process of adding charges
+I am in the process of adding charges (4/15).
