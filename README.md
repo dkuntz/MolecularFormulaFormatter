@@ -1,5 +1,5 @@
 # MolecularFormulaFormatter
-A simple JavaScript function to automatically format and subscript chemistry molecular formulas using the &lt;MF> tag
+A simple JavaScript function to automatically format and subscript chemistry molecular formulas using the &lt;MF> tag with JQuery.
 
 Formats and subscripts molecular formulas using a simple regex.  Also formats for parentheses.
 From https://github.com/dkuntz/MolecularFormulaFormatter
